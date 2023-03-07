@@ -1,14 +1,2 @@
-
 #!/bin/bash
 echo "ALX"
-^C
-
-^C
-C-x C-c
-
-
-cd root
-clear
-^c
-^C
-
